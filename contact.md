@@ -6,15 +6,15 @@ title: Contact
 
 ## Email
 
-* Email: [emailpapabondan](mailto:murdani.bondan.bm@gmail.com)
+* Email: [emaildimas](mailto:sarungcapgajah21@gmail.com)
 
 
 
 ## Mailing Address
 
-> Jl. Raya Margorejo Indah no 30 e (belakang KUA)
+> Jl. yang pernah ada tapi tidak bisa dilalui
 >
-> Surabaya
+> Semarang
 >
 > Indonesia
 > 
