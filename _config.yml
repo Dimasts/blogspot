@@ -1,12 +1,12 @@
-title: Papa Bondan
+title: Dimas Ts
 markdown: kramdown
 url: ""
 baseurl: "/"
 
 # for atom feed
 author:
-  name: Bondan Murdani Soleh
-  email: murdani.bondan.bm@gmail.com
+  name: Dimas Ts
+  email: sarungcapgajah21@gmail.com
 
 plugins:
   - jemoji
