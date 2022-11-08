@@ -1,13 +1,13 @@
-name: Bondan Murdani Soleh
+name: Dimasts
 dp: https://avatars.githubusercontent.com/u/42795436?v=4
 navigasi: " <p>
-  <a href='https://papabondan.github.io/about'>About</a> | 
-  <a href='https://papabondan.github.io/contact'>Contact</a> | 
-  <a href='https://papabondan.github.io/sitemaps'>Sitemap</a>
+  <a href='https://dimasts.github.io/blogspot/about'>About</a> | 
+  <a href='https://dimasts.github.io/blogspot/contact'>Contact</a> | 
+  <a href='https://dimasts.github.io/blogspot/sitemaps'>Sitemap</a>
   </p> <br/>"
 description: "
   <p>
-    Karyawan PT Sygma Daya Insani.
+    Karyawan PT pencari cinta sejati.
   </p>
   <br/>
   <p>
@@ -15,21 +15,21 @@ description: "
   </P>
    <br/>
   <p>
-    Klik untuk akun github saya <a href='https://github.com/papabondan' target='_blank'> Github</a>
+    Klik untuk akun instagram saya <a href='https://instagram.com/lorddimas_' target='_blank'> instagram</a>
   </p>
  
 "
 form: moqrjrbp
 contact-title: Contact
-email: murdani.bondan.bm@gmail.com
+email: sarungcapgajah21@gmail.com
 contact:
   - title: linkedin
-    url: https://www.linkedin.com/in/bondan-murdani-soleh-35b02b131/
+    url: https://www.linkedin.com/in/
   - title: github
-    url: https://github.com/papabondan
+    url: https://github.com/Dimasts
   - title: twitter
-    url: https://twitter.com/bondanhadoh
+    url: https://twitter.com/
   - title: dev
     url: https://dev.to/
   - title: email
-    url: mailto:murdani.bondan.bm@gmail.com
+    url: mailto:sarungcapgajah21@gmail.com
