@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Menyadari Kesalahan dan Segera Memperbaikinya
-date: 2022-01-18
+date: 2022-11-08
 categories: ["catatan"]
 ---
 

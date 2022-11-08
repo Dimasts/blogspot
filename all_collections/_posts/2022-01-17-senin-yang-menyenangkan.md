@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Catatan Senin Yang Harus Disyukuri
-date: 2022-01-17
+date: 2022-11-08
 categories: ["catatan"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memaafkan
-date: 2022-01-19
+date: 2022-11-08
 categories: ["catatan"]
 ---
 

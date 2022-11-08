@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Catatan Yang Harus Dijaga
-date: 2022-01-16 19:55:00
+date: 2022-11-08 15:55:00
 categories: [catatan]
 ---
 ## Singkat Cerita
